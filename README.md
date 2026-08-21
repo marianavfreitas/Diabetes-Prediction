@@ -47,7 +47,7 @@ An interactive Power BI dashboard supports exploration of:
 - Distributions of key variables (glucose, BMI, age) split by outcome
 - A patient-level risk explorer with adjustable age/BMI/glucose filters
 
-[View the full dashboard (PDF)](dashboard/diabetes_dashboard.pdf)
+[View the full dashboard (PDF)](diabetes_dashboard.pdf)
 
 ## Repository Structure
 
